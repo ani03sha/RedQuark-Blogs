@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProfilePage</string>
+    <string name="background_image">Background Image</string>
+    <string name="image_visibility">Image Visibility</string>
+    <string name="name">SACHIN TENDULKAR</string>
+    <string name="posts">558</string>
+    <string name="posts_text">POSTS</string>
+    <string name="followers">14.2M</string>
+    <string name="followers_text">FOLLOWERS</string>
+    <string name="following">10</string>
+    <string name="following_text">FOLLOWING</string>
+    <string name="follow_text">F O L L O W</string>
+    <string name="message_text">M E S S A G E</string>
+    <string name="edit_profile_text">E D I T</string>
+</resources>
